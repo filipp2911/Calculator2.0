@@ -14,6 +14,7 @@
 		B6197E6125394C2B00401215 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6197E6025394C2B00401215 /* Assets.xcassets */; };
 		B6197E6425394C2B00401215 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6197E6225394C2B00401215 /* LaunchScreen.storyboard */; };
 		B6197E9225394CDD00401215 /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6197E9125394CDD00401215 /* View.swift */; };
+		B68E5A14255317BC00FBC72F /* CalcWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68E5A13255317BC00FBC72F /* CalcWork.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B6197E6A25394C2C00401215 /* Calculator2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Calculator2.0Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6197E7525394C2C00401215 /* Calculator2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Calculator2.0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6197E9125394CDD00401215 /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
+		B68E5A13255317BC00FBC72F /* CalcWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcWork.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				B6197E6225394C2B00401215 /* LaunchScreen.storyboard */,
 				B6197E6525394C2B00401215 /* Info.plist */,
 				B6197E9125394CDD00401215 /* View.swift */,
+				B68E5A13255317BC00FBC72F /* CalcWork.swift */,
 			);
 			path = Calculator2.0;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				B6197E9225394CDD00401215 /* View.swift in Sources */,
 				B6197E5C25394C2600401215 /* ViewController.swift in Sources */,
 				B6197E5825394C2600401215 /* AppDelegate.swift in Sources */,
+				B68E5A14255317BC00FBC72F /* CalcWork.swift in Sources */,
 				B6197E5A25394C2600401215 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
